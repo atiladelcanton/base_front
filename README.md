@@ -13,4 +13,4 @@ Será necessário configurar um arquivo de hosts em sua maquina caso queira, ace
 
 ## Todo
 
-[ ] Resolver necessidade de ter que rodar o npm install manualmente
+- Resolver necessidade de ter que rodar o npm install manualmente
